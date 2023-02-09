@@ -1,4 +1,4 @@
-# Modify-PS1-Path
+# Modify-Shell-Prompt-Path
 
 # Introduction
 
