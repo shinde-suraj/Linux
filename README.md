@@ -46,7 +46,7 @@ PS1="\n\[\e[01;33m\]\u\[\e[0m\]\[\e[00;37m\]@\[\e[0m\]\[\e[01;36m\]\h\[\e[0m\]\[
 You can type bash to execute changes OR Exit the terminal and open again to execute changes
 
 #### External Source
-Use the below link to customise your own shell prompt.
+Use the below link to customize your own shell prompt.
 
 ```
 https://bashrcgenerator.com/
