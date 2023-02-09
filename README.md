@@ -1,4 +1,4 @@
-# Modify-Shell-Prompt-Path
+# Modify Shell Prompt Path
 
 # Introduction
 
